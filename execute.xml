@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="execute-module">
+    <test name="Post">
+        <classes>
+            <class name="post.reddit" />
+        </classes>  
+    </test>
+</suite>

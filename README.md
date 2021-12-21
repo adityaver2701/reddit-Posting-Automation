@@ -1,2 +1,8 @@
 # reddit-Posting-Automation
-Auomation of reddit platform to do posting
+Setting up Project
+
+    Install Java(JDK) and set path.
+    Install/Download Maven(binaries) and set path.
+    Clone repository or download zip. 
+
+  

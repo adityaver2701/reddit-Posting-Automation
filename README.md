@@ -5,4 +5,6 @@ Setting up Project
     Install/Download Maven(binaries) and set path.
     Clone repository or download zip. 
 
+#Commands
+    mvc clean test
   
